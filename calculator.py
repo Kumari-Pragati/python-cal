@@ -14,3 +14,6 @@ return math.sin(x)
 
 def cos(a):
 return math.cos(a)
+
+def tan(x):
+return math.tan(x)
