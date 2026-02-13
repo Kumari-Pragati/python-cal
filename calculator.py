@@ -20,4 +20,8 @@ return math.cos(a)
 
 def tan(x):
 return math.tan(x)
->>>>>>> feat/trig_fns
+
+ef log(value, base):
+return math.log(value, base)
+def log10(value):
+return math.log(value)
